@@ -1,0 +1,8 @@
+New file
+
+This a new file for the git exercise (step 4).
+I'm writing about my hobbies.
+
+Hobbies:
+Programming Java
+Watch series
